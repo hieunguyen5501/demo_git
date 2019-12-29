@@ -71,5 +71,6 @@ public class Student implements Comparable<Student> {
         return name1.compareTo(name2);
         // if return value greater than 0 then swap
     }
-// nguyen van hieu
+// nguyen van hieu 
+    // sua code jva
 }
